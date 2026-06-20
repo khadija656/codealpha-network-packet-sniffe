@@ -1,0 +1,95 @@
+
+============================================================
+Packet No: 1
+Time: 2026-06-21 01:11:17
+Source IP: 104.18.39.21
+Destination IP: 192.168.10.6
+Protocol: TCP
+Source Port: 443
+Destination Port: 49994
+
+============================================================
+Packet No: 2
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60272
+Destination Port: 443
+
+============================================================
+Packet No: 3
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60270
+Destination Port: 443
+Payload: b'\x00'
+
+============================================================
+Packet No: 4
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.14
+Protocol: TCP
+Source Port: 64983
+Destination Port: 443
+Payload: b'\x17\x03\x03\x00l\x12\xe4\xbf\xa4`\xc1C\xac\xeb/\xac1gBE\xb3\x8f\xa4\xb7\xc4\xd6\xcfv)6}\xf3\xef\xaf$>\xd2V\xbf_\xfc\xbaU\x98\xfa\x9b\xbe\xed\xa4\x85'
+
+============================================================
+Packet No: 5
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.14
+Protocol: TCP
+Source Port: 64983
+Destination Port: 443
+Payload: b"\x17\x03\x03\x14V\xf5\x18u\x00o\xcb\xe9F\xaa\xfa'\xd2t\x9a\xa6\x89*\xd3\x87\xeb\xc1\xc9!O\xd5<\x15\x89\x12\xdf~\x8cM/\xdf\xcf\x8a\x84\xc2\xd4\x013\xbc\xedv"
+
+============================================================
+Packet No: 6
+Time: 2026-06-21 01:11:17
+Source IP: 20.184.175.13
+Destination IP: 192.168.10.6
+Protocol: TCP
+Source Port: 443
+Destination Port: 60270
+Payload: b'\x17\x03\x03\x01\xcc!\xc9\xa5\x17QIV\x87\xcc\rH\xff\xbb\xec_\xb8o\xa6_Go;kkYl{\xf2\xc6IhF\x84\xae\xee\xac\xbf\x10\xec\xa3\xcbV\x08\xf1\x9e'
+
+============================================================
+Packet No: 7
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60270
+Destination Port: 443
+
+============================================================
+Packet No: 8
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60270
+Destination Port: 443
+Payload: b'\x17\x03\x03\x00\x13\xfc\xea\xff\xda\x9aM\x89r0k\x94\x99^\xcd&\xb5T$m'
+
+============================================================
+Packet No: 9
+Time: 2026-06-21 01:11:17
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60270
+Destination Port: 443
+
+============================================================
+Packet No: 10
+Time: 2026-06-21 01:11:18
+Source IP: 192.168.10.6
+Destination IP: 20.184.175.13
+Protocol: TCP
+Source Port: 60273
+Destination Port: 443
